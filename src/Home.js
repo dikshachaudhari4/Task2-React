@@ -47,8 +47,8 @@ class Home extends React.Component{
                         src="assets/person_1.jpg"
                         class="rounded-circle mx-auto d-block"
                         alt="my photo"
-                        width="200px"
-                        height="180px">
+                        width="150px"
+                        height="150px">
                         </img>
                     </div>
                     <br/>
